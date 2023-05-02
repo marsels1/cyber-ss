@@ -1,0 +1,2491 @@
+/* фон сзади в начале */
+.phonnac {
+position: absolute;
+width: 1920px;
+height: 1135px;
+left: -17px;
+top: 0px;
+background: url(756b5fb03e85d244aae8.jpg);
+background-blend-mode: darken;
+}
+
+/* фон сзади в начале */
+.phonnac1 {
+position: absolute;
+width: 1920px;
+left: -19px;
+top: 0px;
+}
+
+/* лого cyber-ss */
+.logo {
+position: absolute;
+width: 381px;
+left: 247px;
+top: 9px;
+filter: drop-shadow(0px 5px 0px #1EA9D1);
+}
+
+/* ктшник в начале */
+.ktnac {
+position: absolute;
+width: 634px;
+left: 860px;
+top: 101px;
+}
+
+/* Гиперссылка */
+.txtnac {
+    text-decoration: none;
+}
+
+/* ЛИДЕРБОРД */
+.liderbord {
+position: absolute;
+width: 98px;
+height: 7px;
+left: 670px;
+top: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 550;
+font-size: 14.5px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+text-decoration: none;
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px 
+rgba(0, 0, 0, 0.45);
+}
+
+/* Почему мы */
+.whywe {
+position: absolute;
+width: 143px;
+height: 7px;
+left: 852px;
+top: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 550;
+font-size: 14.5px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+text-decoration: none;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px 
+rgba(0, 0, 0, 0.45);
+}
+
+
+/* АНАЛИТИКА */
+.analitic {
+position: absolute;
+width: 98px;
+height: 7px;
+left: 1034px;
+top: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 550;
+font-size: 14.5px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 4px 4px 
+rgba(0, 0, 0, 0.45);
+color: #FFFFFF;
+}
+
+
+/* СЕРВЕРЫ */
+.servers {
+position: absolute;
+width: 169px;
+height: 7px;
+left: 1212px;
+top: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 550;
+font-size: 15px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+text-decoration: none;
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px 
+rgba(0, 0, 0, 0.45);
+}
+
+/* кнопка где связаться с нами */
+.button {
+position: absolute;
+width: 126px;
+height: 36px;
+left: 1385px;
+top: 32px;
+
+background: #1CA9CD;
+box-shadow: 0px 0px 20px -1px #1CA9CD;
+border-radius: 29px;
+}
+
+
+/* текст в кнопке связаться с нами */
+.svyaz {
+position: absolute;
+width: 106px;
+height: 31px;
+left: 1395px;
+top: 34px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-decoration: none;
+text-align: center;
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px 
+rgba(0, 0, 0, 0.45);
+}
+
+/* Киберспортивная лига нового поколения */
+.nactext {
+position: absolute;
+width: 629px;
+height: 167px;
+left: 400px;
+top: 244px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 151.2%;
+/* or 83px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Станьте частью большой команды 
+и развивайтесь в кибер индустрии! */
+.nactext1 {
+position: absolute;
+width: 455px;
+height: 53px;
+left: 404px;
+top: 466px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 166.9%;
+/* or 27px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+/* кнопка где узнать больше */
+.button1 {
+position: absolute;
+width: 282px;
+height: 65px;
+left: 405px;
+top: 549px;
+
+background: rgba(3, 196, 238, 0.7);
+box-shadow: 0px 0px 41px -1px #16B3D8;
+border-radius: 29px;
+}
+
+
+/* Узнать больше о “CYBER-SS” */
+.yznatb1 {
+position: absolute;
+width: 190px;
+height: 16px;
+left: 451px;
+top: 574px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+text-decoration: none;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* все фото внизу начальной страницы*/
+.photo1 {
+position: absolute;
+width: 142px;
+height: 142px;
+left: 427px;
+top: 820px;
+}
+
+.photo2 {
+position: absolute;
+width: 149px;
+height: 146px;
+left: 719px;
+top: 823px;
+}
+
+.photo3 {
+position: absolute;
+width: 149px;
+height: 146px;
+left: 998px;
+top: 828px;
+}
+
+.photo4 {
+position: absolute;
+width: 149px;
+height: 149px;
+left: 1282px;
+top: 831px;
+}
+
+/* Играй матчмейкингна наших 
+серверахс античитом */
+.photo1txt {
+position: absolute;
+width: 279px;
+height: 50px;
+left: 361px;
+top: 965px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 0px 11px #353535;
+}
+
+
+/* Занимай призовые места 
+в топе каждый сезон */
+.photo2txt {
+position: absolute;
+width: 246px;
+height: 50px;
+left: 683px;
+top: 966px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 0px 11px #353535;
+}
+
+/* Получай ценные призы. 
+Совершенно бесплатно! */
+.photo3txt {
+position: absolute;
+width: 246px;
+height: 50px;
+left: 953px;
+top: 966px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 0px 11px #353535;
+}
+
+/* Лучшая бесплатная платформа 
+по проведению автоматических игр 
+CS:GO в мире. */
+.photo4txt {
+position: absolute;
+width: 289px;
+height: 75px;
+left: 1222px;
+top: 966px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 0px 11px #353535;
+}
+
+
+/*штука снизу начальной страницы*/
+.panel1 {
+position: absolute;
+width: 1920px;
+height: 540px;
+left: -17px;
+top: 1085px;
+
+background: #121212;
+}
+
+/*для красоты калаш в панеле*/
+.kt1 {
+position: absolute;
+height: 418px;
+left: 74px;
+top: 1122px;
+
+}
+
+.kt2 {
+position: absolute;
+width: 292.41px;
+height: 418.74px;
+left: 1476px;
+top: 1101px;
+transform: rotate(8.3deg);
+}
+
+.kalash {
+position: absolute;
+width: 383px;
+height: 116.48px;
+left: 225px;
+top: 1295px;
+
+transform: rotate(-22.58deg);
+}
+
+.mka4 {
+position: absolute;
+width: 405.44px;
+height: 114.81px;
+left: 1320.08px;
+top: 1292px;
+
+transform: rotate(22.58deg);
+}
+
+
+/* О НАС */
+.about {
+position: absolute;
+width: 748px;
+height: 81px;
+left: 835px;
+top: 1130px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 126%;
+/* identical to box height, or 81px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1EA9D1;
+
+}
+
+/* Cyber-SS — непревзойденные 
+мастера киберспорта, чьи навыки 
+и тактический ум в каждом матче 
+поражают воображение соперников. 
+Они собрались вместе, чтобы доказать, 
+что виртуальный мир - это их территория, 
+и они готовы покорять его вместе! 
+Мы оказываем полный спектр ощущений 
+и нас рекомендуют друзьям. */
+.about2 {
+position: absolute;
+width: 742px;
+height: 153px;
+left: 588px;
+top: 1240px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 126%;
+/* or 28px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*картинка снизу текста о нас*/
+@keyframes fade {
+  0% { opacity: 0; }
+  15.11% { opacity: 1; }
+  33.33% { opacity: 1; }
+  44.44% { opacity: 0; }
+  100% { opacity: 0; }
+}
+.about3 {
+position: absolute;
+width: 730px;
+height: 400px;
+left: 595px;
+top: 1420px;
+}
+/*слайд шоу*/
+.about3 img { position:absolute; width:100%; left:0; right:0; opacity:0; animation-name: fade; animation-duration: 9s; animation-iteration-count: infinite; }
+.about3 img:nth-child(1) { animation-delay: 0s; }
+.about3 img:nth-child(2) { animation-delay: 3s; }
+.about3 img:nth-child(3) { animation-delay: 6s; }
+
+/*штука для листания вправо влево*/
+.slider-write {
+position: absolute;
+width: 52px;
+height: 52px;
+left: 1265px;
+top: 1564px;
+}
+
+.slider-left {
+position: absolute;
+width: 52px;
+height: 52px;
+left: 519px;
+top: 1564px;
+}
+
+.slider-down {
+position: absolute;
+width: 58px;
+height: 6px;
+left: 944px;
+top: 1870px;
+}
+
+
+/*Автоматический анализ*/
+.analiz {
+position: absolute;
+width: 787px;
+height: 83px;
+left: 257px;
+top: 2085px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 55px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+color: #121212;
+}
+
+
+/* Сотрудничая с профессиональными 
+командами мы разработали систему 
+автоматического анализа игры, которая 
+обрабатывает каждое действие, каждый выстрел 
+пользователя за всю игру и обсчитывает различные 
+метрики, которые позволят всем найти свои слабые и 
+сильные стороны и постоянно развиваться. */
+.sotrudn1 {
+position: absolute;
+width: 746px;
+height: 38px;
+left: 257px;
+top: 2292px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 133.9%;
+/* or 35px */
+
+display: flex;
+align-items: center;
+
+color: #2B2B2B;
+
+}
+
+.zatemnenie {
+position: absolute;
+width: 0px;
+left: 130px;
+top: 1680px;
+}
+
+/*справа от автоматического анализа*/
+.t1 {
+position: absolute;
+width: 686px;
+height: 649px;
+left: 1014px;
+top: 1888px;
+}
+
+.t2 {
+position: absolute;
+width: 370px;
+height: 694px;
+left: 1154px;
+top: 1914px; 
+}
+
+.t3 {
+position: absolute;
+width: 378px;
+height: 35px;
+left: 1146px;
+top: 2428px;
+}
+
+.t4 {
+position: absolute;
+width: 343px;
+height: 44px;
+left: 1156px;
+top: 2463px;
+}
+
+.game-and {
+position: absolute;
+width: 410px;
+height: 53px;
+left: 1193px;
+top: 2458px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 133.9%;
+/* or 21px */
+
+display: flex;
+align-items: center;
+
+color: #2B2B2B;
+}
+
+.cyber-ss {
+position: absolute;
+width: 109px;
+height: 18px;
+left: 1269px;
+top: 2437px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 126%;
+display: flex;
+align-items: center;
+
+color: #1DA9D4;
+
+}
+
+/*ниже анализа черный фон*/
+.blackphone-down-for-analiz {
+position: absolute;
+width: 1920px;
+height: 1040px;
+left: -17px;
+top: 2755px;
+}
+
+.phone-with-bphone {
+position: absolute;
+width: 1920px;
+left: -17px;
+top: 2750px;
+}
+
+/*Почему выбирают нас?*/
+.whywe1 {
+position: absolute;
+width: 705px;
+height: 59px;
+left: 613px;
+top: 2868px;
+}
+
+.circle1 {
+position: absolute;
+width: 54px;
+height: 54px;
+left: 607px;
+top: 3069px;
+}
+
+.circle2 {
+position: absolute;
+width: 54px;
+height: 54px;
+left: 474px;
+top: 3250px;
+}
+
+.circle3 {
+position: absolute;
+width: 54px;
+height: 54px;
+left: 570px;
+top: 3451px;
+}
+
+.circle4 {
+position: absolute;
+width: 54px;
+height: 54px;
+left: 1299px;
+top: 3017px;
+}
+
+.circle5 {
+position: absolute;
+width: 54px;
+height: 54px;
+left: 1383px;
+top: 3250px;
+}
+
+.circle6 {
+position: absolute;
+width: 54px;
+height: 54px;
+left: 1276px;
+top: 3478px;
+}
+
+/*стрелки к кругам*/
+.strelka1 {
+position: absolute;
+width: 74.5px;
+height: 56.12px;
+left: 715.5px;
+top: 3087.88px;
+}
+
+.strelka2 {
+position: absolute;
+width: 108.5px;
+height: 10.84px;
+left: 668.5px;
+top: 3338.82px;
+}
+
+.strelka3 {
+position: absolute;
+width: 91.41px;
+height: 115.5px;
+left: 751px;
+top: 3481px;
+}
+
+.strelka4 {
+position: absolute;
+width: 168.5px;
+height: 114.5px;
+left: 1117px;
+top: 3055.5px;
+}
+
+.strelka5 {
+position: absolute;
+width: 89px;
+height: 17.66px;
+left: 1150px;
+top: 3330px;
+}
+
+.strelka6 {
+position: absolute;
+width: 158.24px;
+height: 73.32px;
+left: 1111.47px;
+top: 3435.05px;
+}
+
+/*ящик в середине стрелок и круга*/
+.yashik {
+position: absolute;
+width: 417px;
+height: 402px;
+left: 650px;
+top: 3023px;
+filter: drop-shadow(0px 4px 105px rgba(124, 137, 255, 0.33));
+}
+
+.str1 {
+position: absolute;
+width: 16px;
+height: 50px;
+left: 626px;
+top: 3072px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+}
+
+.str2 {
+position: absolute;
+width: 16px;
+height: 50px;
+left: 489px;
+top: 3253px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+}
+
+.str3 {
+position: absolute;
+width: 16px;
+height: 50px;
+left: 584px;
+top: 3453px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+}
+
+.str4 {
+position: absolute;
+width: 16px;
+height: 50px;
+left: 1309px;
+top: 3019px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+}
+
+.str5 {
+position: absolute;
+width: 16px;
+height: 50px;
+left: 1398px;
+top: 3252px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+}
+
+.str6 {
+position: absolute;
+width: 16px;
+height: 50px;
+left: 1289px;
+top: 3480px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+}
+
+/*текст к кругам и стрелкам*/
+/* Лёгкий вход в сервера CYBER-SS */
+.txt1-for-circle {
+position: absolute;
+width: 192px;
+height: 46px;
+left: 536px;
+top: 3138px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+
+/* Низкая задержка на всех серверах */
+.txt2-for-circle {
+position: absolute;
+width: 171px;
+height: 46px;
+left: 416px;
+top: 3319px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* На всех наших серверах tick = 128.0 */
+.txt3-for-circle {
+position: absolute;
+width: 267px;
+height: 46px;
+left: 462px;
+top: 3529px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+
+/* Переработанная система лиг */
+.txt4-for-circle {
+position: absolute;
+width: 233px;
+height: 46px;
+left: 1206px;
+top: 3095px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* Постоянная поддержка pro-игроков */
+.txt5-for-circle {
+position: absolute;
+width: 250px;
+height: 46px;
+left: 1287px;
+top: 3324px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* Уникальная система банов */
+.txt6-for-circle {
+position: absolute;
+width: 182px;
+height: 46px;
+left: 1212px;
+top: 3552px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 126%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/*блок где - понравилось у нас? оставляй отзыв*/
+.block1 {
+position: absolute;
+width: 1110px;
+height: 661px;
+left: 405px;
+top: 3941px;
+background: #FFFFFF;
+border-radius: 11px;
+}
+
+.zatemnenie-block1 {
+position: absolute;
+width: 1082px;
+height: 661px;
+left: 419px;
+top: 3941px;
+}
+
+/*значок вк ниже*/
+.vk {
+position: absolute;
+width: 336px;
+height: 336px;
+left: 1072px;
+top: 4148px;
+}
+
+/* Понравилось у нас?*/
+.like-for-we {
+position: absolute;
+width: 1105px;
+height: 84px;
+left: 432px;
+top: 3962px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+
+color: #1EA9D1;
+}
+
+
+/* Оставляй отзыв у нас в сообществе */
+.send-offer {
+position: absolute;
+width: 1105px;
+height: 84px;
+left: 432px;
+top: 4036px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+
+/*снизу о нас и просьбы писать отзывы*/
+.offer-about {
+position: absolute;
+width: 553px;
+height: 127px;
+left: 443px;
+top: 4142px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+color: #FFFFFF;
+}
+
+/*кнопка перехода в вк*/
+.link-vk {
+position: absolute;
+width: 262px;
+height: 63px;
+left: 443px;
+top: 4469px;
+
+background: #1EA9D1;
+box-shadow: 0px 0px 89px -7px #1EA9D1;
+border-radius: 59px;
+}
+
+
+/* ПЕРЕХОД */
+.link-vk-go {
+position: absolute;
+width: 144px;
+height: 17px;
+left: 505px;
+top: 4484px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: white;
+text-decoration: none;
+}
+
+
+/*ниже где правила проекта черный фон и загрязнение*/
+.blackphone-support {
+position: absolute;
+width: 100px;
+height: 1040px;
+left: -17px;
+top: 4751px;
+}
+
+.fon-up-bphone-support {
+position: absolute;
+width: 1920px;
+height: 1135px;
+left: -17px;
+top: 4501px;
+}
+
+
+/*ктшник слева где правила*/
+.kt-support {
+position: absolute;
+width: 762px;
+height: 851px;
+left: 200px;
+top: 4919px;
+}
+
+.message-support {
+position: absolute;
+width: 386px;
+height: 344px;
+left: 620px;
+top: 4897px;
+}
+
+
+/* НАЙДИ ОТВЕТ НА ЛЮБОЙ ВОПРОС ЦЕНТР ПОДДЕРЖКИ */
+.support-center {
+position: absolute;
+width: 705px;
+height: 126px;
+left: 667px;
+top: 4784px;
+}
+
+/*блоки с правилами и тд*/
+.block1-sup {
+position: absolute;
+height: 91px;
+left: 989px;
+top: 4871px;
+}
+
+.block2-sup {
+position: absolute;
+height: 91px;
+left: 989px;
+top: 5070px;
+}
+
+.block3-sup {
+position: absolute;
+height: 91px;
+left: 989px;
+top: 5270px;
+}
+
+.block4-sup {
+position: absolute;
+height: 91px;
+left: 989px;
+top: 5478px;
+}
+
+.liner-sup {
+position: absolute;
+height: 5.33px;
+left: 1381.61px;
+top: 5044.3px;
+}
+
+.warning-sup {
+position: absolute;
+width: 206px;
+height: 45px;
+left: 740px;
+top: 5013.3px;
+}
+
+/*текст в блоках центра поддержки*/
+.text-block1 {
+position: absolute;
+height: 91px;
+left: 1272px;
+top: 4951px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 151.2%;
+text-decoration: none;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #5A5A5A;
+}
+
+.text-block2 {
+position: absolute;
+height: 91px;
+left: 1272px;
+top: 5150px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+text-decoration: none;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.text-block3 {
+position: absolute;
+height: 91px;
+left: 1272px;
+top: 5351px;
+
+text-decoration: none;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #5A5A5A;
+
+}
+
+.text-block4 {
+position: absolute;
+height: 91px;
+left: 1231px;
+top: 5561px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration: none;
+color: #FFFFFF;
+}
+
+
+/*СЕРВЕРА ВЫШЕ БЛОКОВ ДОСТУПНЫХ СЕРВАКОВ*/
+.servers1 {
+position: absolute;
+width: 719px;
+height: 83px;
+left: 830px;
+top: 5800px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 55px;
+line-height: 151.2%;
+/* or 83px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+}
+
+.block-of-servers {
+position: absolute;
+width: 1920px;
+height: 1540px;
+left: -17px;
+top: 5900px;
+
+background: #121212;
+}
+
+/*блоки с отображением игры (как выглядит)*/
+.block1-game {
+position: absolute;
+width: 396px;
+height: 505px;
+left: 122px;
+top: 5994px;
+
+border-radius: 28px;
+}
+
+.block2-game {
+position: absolute;
+width: 396px;
+height: 505px;
+left: 352px;
+top: 5994px;
+
+border-radius: 28px;
+}
+
+.block3-game {
+position: absolute;
+width: 396px;
+height: 505px;
+left: 570px;
+top: 5994px;
+
+border-radius: 28px;
+}
+
+.block4-game {
+position: absolute;
+width: 396px;
+height: 505px;
+left: -1111px;
+top: 6676px;
+
+border-radius: 28px;
+}
+
+.block5-game {
+position: absolute;
+width: 396px;
+height: 505px;
+left: 765px;
+top: 6676px;
+
+border-radius: 28px;
+}
+
+.block6-game {
+position: absolute;
+width: 396px;
+height: 505px;
+left: 1402px;
+top: 6676px;
+
+border-radius: 28px;
+}
+
+
+/*1 блок clutch анимация*/
+figure.block1-game * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}           
+figure.block1-game {
+    position: relative;
+    max-width: 100%;
+    display: inline-block;
+    border: 6px solid #00bff3;
+    background: #00bff3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);
+    overflow: hidden;
+    margin: 15px 0;
+    font-size: 0;
+}
+figure.block1-game img {
+    transition: all 300ms;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+figure.block1-game:hover img {
+    transition: all 700ms;
+    transform: scale(1.1);
+}
+figure.block1-game figcaption {
+    position: absolute;
+    background: #00bff3;
+    transition: transform 300ms;
+    padding: 12px;
+}
+figure.block1-game:hover figcaption {
+    transform: translateY(0);
+}
+figure.block1-game:hover img {
+    top: -40px;
+}
+figure.block1-game figcaption {
+    bottom: 0;
+    transform: translateY(100%);
+    border-top: 6px solid #00bff3;
+}
+figure.block1-game:hover img {
+    top: 40px;
+}
+figure.info-top figcaption {
+    top: 0;
+    transform: translateY(-100%);
+    border-bottom: 6px solid #00bff3;
+}
+figure.block1-game figcaption,
+figure.block1-game figcaption {
+    width: 100%;
+}
+figure.block1-game:hover img {
+    left: 90px;
+}
+figure.block1-game figcaption {
+    left: 0;
+    top: 0;
+    transform: translateX(-180px);
+    border-right: 6px solid #00bff3;
+}
+figure.block1-game:hover img {
+    left: -30px;
+}
+figure.block1-game figcaption {
+    right: 0;
+    top: 0;
+    transform: translateX(180px);
+    border-left: 6px solid #00bff3;
+}
+figure.block1-game figcaption,
+figure.block1-game figcaption {
+    width: 1000px;
+    height: 15%;
+}
+
+.txtforblock {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*2 блок dm анимация*/
+figure.block2-game * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}           
+figure.block2-game {
+    position: relative;
+    max-width: 100%;
+    display: inline-block;
+    border: 6px solid #00bff3;
+    background: #00bff3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);
+    overflow: hidden;
+    margin: 15px 0;
+    font-size: 0;
+}
+figure.block2-game img {
+    transition: all 300ms;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+figure.block2-game:hover img {
+    transition: all 700ms;
+    transform: scale(1.1);
+}
+figure.block2-game figcaption {
+    position: absolute;
+    background: #00bff3;
+    transition: transform 300ms;
+    padding: 12px;
+}
+figure.block2-game:hover figcaption {
+    transform: translateY(0);
+}
+figure.block2-game:hover img {
+    top: -40px;
+}
+figure.block2-game figcaption {
+    bottom: 0;
+    transform: translateY(100%);
+    border-top: 6px solid #00bff3;
+}
+figure.block2-game:hover img {
+    top: 40px;
+}
+figure.block2-game figcaption,
+figure.block2-game figcaption {
+    width: 100%;
+}
+figure.block2-game:hover img {
+    left: 90px;
+}
+figure.block2-game figcaption {
+    left: 0;
+    top: 0;
+    transform: translateX(-180px);
+    border-right: 6px solid #00bff3;
+}
+figure.block2-game:hover img {
+    left: -30px;
+}
+figure.block2-game figcaption {
+    right: 0;
+    top: 0;
+    transform: translateX(180px);
+    border-left: 6px solid #00bff3;
+}
+figure.block2-game figcaption,
+figure.block2-game figcaption {
+    width: 1000px;
+    height: 15%;
+}
+
+
+
+/*3 блок retake classic анимация*/
+figure.block3-game * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}           
+figure.block3-game {
+    position: relative;
+    max-width: 100%;
+    display: inline-block;
+    border: 6px solid #00bff3;
+    background: #00bff3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);
+    overflow: hidden;
+    margin: 15px 0;
+    font-size: 0;
+}
+figure.block3-game img {
+    transition: all 300ms;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+figure.block3-game:hover img {
+    transition: all 700ms;
+    transform: scale(1.1);
+}
+figure.block3-game figcaption {
+    position: absolute;
+    background: #00bff3;
+    transition: transform 300ms;
+    padding: 12px;
+}
+figure.block3-game:hover figcaption {
+    transform: translateY(0);
+}
+figure.block3-game:hover img {
+    top: -40px;
+}
+figure.block3-game figcaption {
+    bottom: 0;
+    transform: translateY(100%);
+    border-top: 6px solid #00bff3;
+}
+figure.block3-game:hover img {
+    top: 40px;
+}
+figure.block3-game figcaption,
+figure.block3-game figcaption {
+    width: 100%;
+}
+figure.block3-game:hover img {
+    left: 90px;
+}
+figure.block3-game figcaption {
+    left: 0;
+    top: 0;
+    transform: translateX(-180px);
+    border-right: 6px solid #00bff3;
+}
+figure.block3-game:hover img {
+    left: -30px;
+}
+figure.block3-game figcaption {
+    right: 0;
+    top: 0;
+    transform: translateX(180px);
+    border-left: 6px solid #00bff3;
+}
+figure.block3-game figcaption,
+figure.block3-game figcaption {
+    width: 1000px;
+    height: 25%;
+}
+
+
+
+/*4 блок duels анимация*/
+figure.block4-game * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}           
+figure.block4-game {
+    position: relative;
+    max-width: 100%;
+    display: inline-block;
+    border: 6px solid #00bff3;
+    background: #00bff3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);
+    overflow: hidden;
+    margin: 15px 0;
+    font-size: 0;
+}
+figure.block4-game img {
+    transition: all 300ms;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+figure.block4-game:hover img {
+    transition: all 700ms;
+    transform: scale(1.1);
+}
+figure.block4-game figcaption {
+    position: absolute;
+    background: #00bff3;
+    transition: transform 300ms;
+    padding: 12px;
+}
+figure.block4-game:hover figcaption {
+    transform: translateY(0);
+}
+figure.block4-game:hover img {
+    top: -40px;
+}
+figure.block4-game figcaption {
+    bottom: 0;
+    transform: translateY(100%);
+    border-top: 6px solid #00bff3;
+}
+figure.block4-game:hover img {
+    top: 40px;
+}
+figure.block4-game figcaption,
+figure.block4-game figcaption {
+    width: 100%;
+}
+figure.block4-game:hover img {
+    left: 90px;
+}
+figure.block4-game figcaption {
+    left: 0;
+    top: 0;
+    transform: translateX(-180px);
+    border-right: 6px solid #00bff3;
+}
+figure.block4-game:hover img {
+    left: -30px;
+}
+figure.block4-game figcaption {
+    right: 0;
+    top: 0;
+    transform: translateX(180px);
+    border-left: 6px solid #00bff3;
+}
+figure.block4-game figcaption,
+figure.block4-game figcaption {
+    width: 1000px;
+    height: 15%;
+}
+
+/*5 блок DUELS 2X2 анимация*/
+figure.block5-game * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}           
+figure.block5-game {
+    position: absolute;
+    max-width: 100%;
+    display: inline-block;
+    border: 6px solid #00bff3;
+    background: #00bff3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);
+    overflow: hidden;
+    margin: 15px 0;
+    font-size: 0;
+}
+figure.block5-game img {
+    transition: all 300ms;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+figure.block5-game:hover img {
+    transition: all 700ms;
+    transform: scale(1.1);
+}
+figure.block5-game figcaption {
+    position: absolute;
+    background: #00bff3;
+    transition: transform 300ms;
+    padding: 12px;
+}
+figure.block5-game:hover figcaption {
+    transform: translateY(0);
+}
+figure.block5-game:hover img {
+    top: -40px;
+}
+figure.block5-game figcaption {
+    bottom: 0;
+    transform: translateY(100%);
+    border-top: 6px solid #00bff3;
+}
+figure.block5-game:hover img {
+    top: 40px;
+}
+figure.block5-game figcaption,
+figure.block5-game figcaption {
+    width: 100%;
+}
+figure.block5-game:hover img {
+    left: 90px;
+}
+figure.block5-game figcaption {
+    left: 0;
+    top: 0;
+    transform: translateX(-180px);
+    border-right: 6px solid #00bff3;
+}
+figure.block5-game:hover img {
+    left: -30px;
+}
+figure.block5-game figcaption {
+    right: 0;
+    top: 0;
+    transform: translateX(180px);
+    border-left: 6px solid #00bff3;
+}
+figure.block5-game figcaption,
+figure.block5-game figcaption {
+    width: 1000px;
+    height: 15%;
+}
+
+
+/*6 блок DUELS 2X2 анимация*/
+figure.block6-game * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}           
+figure.block6-game {
+    position: absolute;
+    max-width: 100%;
+    display: inline-block;
+    border: 6px solid #00bff3;
+    background: #00bff3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);
+    overflow: hidden;
+    margin: 15px 0;
+    font-size: 0;
+}
+figure.block6-game img {
+    transition: all 300ms;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+figure.block6-game:hover img {
+    transition: all 700ms;
+    transform: scale(1.1);
+}
+figure.block6-game figcaption {
+    position: absolute;
+    background: #00bff3;
+    transition: transform 300ms;
+    padding: 12px;
+}
+figure.block6-game:hover figcaption {
+    transform: translateY(0);
+}
+figure.block6-game:hover img {
+    top: -40px;
+}
+figure.block6-game figcaption {
+    bottom: 0;
+    transform: translateY(100%);
+    border-top: 6px solid #00bff3;
+}
+figure.block6-game:hover img {
+    top: 40px;
+}
+figure.block6-game figcaption,
+figure.block6-game figcaption {
+    width: 100%;
+}
+figure.block6-game:hover img {
+    left: 90px;
+}
+figure.block6-game figcaption {
+    left: 0;
+    top: 0;
+    transform: translateX(-180px);
+    border-right: 6px solid #00bff3;
+}
+figure.block6-game:hover img {
+    left: -30px;
+}
+figure.block6-game figcaption {
+    right: 0;
+    top: 0;
+    transform: translateX(180px);
+    border-left: 6px solid #00bff3;
+}
+figure.block6-game figcaption,
+figure.block6-game figcaption {
+    width: 1000px;
+    height: 15%;
+}
+
+
+/*блоки с онлайном*/
+.block1-online {
+position: absolute;
+width: 262px;
+height: 63px;
+left: 25px;
+top: 7260px;
+}
+
+.block2-online {
+position: absolute;
+width: 359px;
+height: 63px;
+left: 313px;
+top: 7260px;
+}
+
+.block3-online {
+position: absolute;
+width: 262px;
+height: 63px;
+left: 742px;
+top: 7260px;
+
+}
+
+.block4-online {
+position: absolute;
+width: 359px;
+height: 63px;
+left: 1067px;
+top: 7260px;
+}
+
+.block5-online {
+position: absolute;
+width: 262px;
+height: 63px;
+left: 1483px;
+top: 7260px;
+}
+
+/*лайв режим онлайна*/
+.live {
+position: absolute;
+width: 262px;
+height: 63px;
+left: 33px;
+top: 7351px;
+}
+
+
+/*10 ИГРОКОВ*/
+.txt1-online {
+position: absolute;
+width: 262px;
+height: 63px;
+left: 135px;
+top: 7345px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00C2FF;
+}
+
+
+/*7 ИГРОКОВ В СУТКИ*/
+.txt2-online {
+position: absolute;
+left: 435px;
+top: 7354px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00C2FF;
+}
+
+/*6 РЕЖИМОВ*/
+.txt3-online {
+position: absolute;
+left: 870px;
+top: 7354px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00C2FF;
+}
+
+
+/*23 НОВЫХ ИГРОКОВ*/
+.txt4-online {
+position: absolute;
+left: 1185px;
+top: 7354px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00C2FF;
+}
+
+/*10 СЕРВЕРОВ*/
+.txt5-online {
+position: absolute;
+left: 1610px;
+top: 7354px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00C2FF;
+}
+
+/*текст ЛИДЕРБОРД*/
+.txt-liderbord {
+position: absolute;
+left: 120px;
+top: 7419px;
+}
+
+/*черный фон внизу лидерборда*/
+.down-liderbord {
+position: absolute;
+width: 1920px;
+height: 1540px;
+left: -687px;
+top: 7490px;
+
+background: #121212;
+}
+
+
+/*фон для позиций и тд*/
+.phone-of-liderbord {
+position: absolute;
+width: 1775px;
+height: 63px;
+left: -1183px;
+top: -1545px;
+}
+
+
+/*фон первой позиции в лидерборде*/
+.phone-of-1position-liderbord {
+position: absolute;
+width: 1775px;
+height: 63px;
+left: -1183px;
+top: -1460px;
+}
+
+/*фон второй позиции в лидерборде*/
+.phone-of-2position-liderbord {
+position: absolute;
+width: 1775px;
+height: 63px;
+left: -1183px;
+top: -1322px;
+}
+
+
+/*ава первой позиции в лидерборде*/
+.ava-for-1position-liderbord {
+position: absolute;
+width: 70px;
+height: 70px;
+left: -700px;
+top: -1438px;
+}
+
+
+/*ава второй позиции в лидерборде*/
+.ava-for-2position-liderbord {
+position: absolute;
+width: 70px;
+height: 70px;
+left: -700px;
+top: -1298px;
+}
+
+
+/* Позиция */
+.position-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -1100px;
+top: -1533px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+
+/*Игроки*/
+.gamer-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -707px;
+top: -1533px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+/*Убийства*/
+.kills-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -370px;
+top: -1533px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+
+/*HS%*/
+.hs-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 10px;
+top: -1533px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+/*K/D*/
+.kd-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 240px;
+top: -1533px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+/*Звание*/
+.rang-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 420px;
+top: -1533px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+
+/*позиция 1 игрока*/
+.position1-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -1033px;
+top: -1422px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*позиция 2 игрока*/
+.position2-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -1033px;
+top: -1282px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*игрок 1*/
+.gamer1-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -620px;
+top: -1423px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*игрок 2*/
+.gamer2-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -620px;
+top: -1283px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+
+
+/*Кол-во убийств игроком 1*/
+.kills1-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -330px;
+top: -1423px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*Кол-во убийств игроком 2*/
+.kills2-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: -330px;
+top: -1283px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*HS% игрока 1*/
+.hs1-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 12px;
+top: -1423px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+
+/*HS% игрока 2*/
+.hs2-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 12px;
+top: -1283px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*K/D игрока 1*/
+.kd1-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 237px;
+top: -1423px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+/*K/D игрока 2*/
+.kd2-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 237px;
+top: -1283px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+
+/*звание 1 игрока*/
+.rang1-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 435px;
+top: -1423px;
+}
+
+/*звание 2 игрока*/
+.rang2-liderbord {
+position: absolute;
+width: 129px;
+height: 41px;
+left: 438px;
+top: -1283px;
+}
+
+/* ИГРАЙ! ПОЛУЧАЙ ПРИЗЫ ЗА САМЫЙ ВЫСШИЙ РАНГ! */
+.game-and-give-achive {
+position: absolute;
+width: 1015px;
+height: 38px;
+left: -20px;
+top: 8766px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 133.9%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.block-end {
+position: absolute;
+width: 1920px;
+height: 308px;
+left: -687px;
+top: 8885px;
+
+background: #3C3C3C;
+}
+
+
+/*логотип в конце*/
+.logo-end {
+position: absolute;
+width: 292px;
+height: 129px;
+left: -330px;
+top: 8946px;
+}
+
+/* Официальный сайт специализированный на 
+киберспорте “CYBER-SS” */
+.txt-end {
+position: absolute;
+width: 528px;
+height: 57px;
+left: -260px;
+top: 9043px;
+}
+
+.vk-end {
+position: absolute;
+width: 58px;
+height: 58px;
+left: 569px;
+top: 8989px;
+}
+
+.instagram-end {
+position: absolute;
+width: 58px;
+height: 58px;
+left: 649px;
+top: 8989px;
+}
+
+.politic-end {
+position: absolute;
+width: 2px;
+left: 579px;
+top: 9069px;
+}
