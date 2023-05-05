@@ -1,0 +1,848 @@
+/* CLUTCH */
+.clutch1 {
+position: absolute;
+width: 885px;
+height: 105px;
+left: 517px;
+top: 18px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 118%;
+/* or 113px */
+
+text-align: center;
+
+color: #1EA9D1;
+}
+
+/*ниже клатча*/
+/* 2VS5/1VS3 */
+.category {
+position: absolute;
+left: 735px;
+top: 128px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 118%;
+/* identical to box height, or 24px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*панель ниже где название карты и тд.*/
+.panel1 {
+position: absolute;
+width: 1775px;
+height: 63px;
+left: 72px;
+top: 184px;
+
+background: rgba(255, 255, 255, 0.1);
+border-radius: 59px;
+}
+
+/*панели ниже для серверов*/
+.panel2 {
+position: absolute;
+width: 1775px;
+height: 115px;
+left: 72px;
+top: 280px;
+
+background: rgba(255, 255, 255, 0.19);
+border-radius: 23px;
+}
+
+.panel3 {
+position: absolute;
+width: 1775px;
+height: 115px;
+left: 72px;
+top: 610px;
+
+background: rgba(255, 255, 255, 0.19);
+border-radius: 23px;
+}
+
+.panel4 {
+position: absolute;
+width: 1775px;
+height: 115px;
+left: 72px;
+top: 800px;
+
+background: rgba(255, 255, 255, 0.19);
+border-radius: 23px;
+}
+
+.panel5 {
+position: absolute;
+width: 1775px;
+height: 115px;
+left: 72px;
+top: 440px;
+
+background: rgba(255, 255, 255, 0.19);
+border-radius: 23px;
+}
+
+
+/*кнопка назад*/
+.back {
+position: absolute;
+width: 233px;
+height: 63px;
+left: 1640px;
+top: 1024px;
+
+background: rgba(255, 255, 255, 0.1);
+border-radius: 59px;
+}
+
+
+/*к списку*/
+.back-for-index {
+position: absolute;
+width: 173px;
+height: 38px;
+left: 30px;
+top: 13px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 118%;
+/* identical to box height, or 38px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+text-decoration: none;
+}
+
+
+/*КАРТА*/
+.map {
+position: absolute;
+width: 98px;
+height: 41px;
+left: 120px;
+top: 195px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+/* identical to box height, or 41px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+
+/* НАЗВАНИЕ */
+.name-map {
+position: absolute;
+width: 166px;
+height: 41px;
+left: 611px;
+top: 195px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+/* identical to box height, or 41px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+
+/* IP */
+.ip {
+position: absolute;
+width: 29px;
+height: 41px;
+left: 1043px;
+top: 195px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+/* identical to box height, or 41px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+
+/*РЕГИОН*/
+.location {
+position: absolute;
+width: 121px;
+height: 41px;
+left: 1315px;
+top: 195px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+/* identical to box height, or 41px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+
+/*КАТЕГОРИЯ*/
+.category-block1 {
+position: absolute;
+width: 173px;
+height: 41px;
+left: 1614px;
+top: 195px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 151.2%;
+/* identical to box height, or 41px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C9C9C;
+}
+
+/*карта dust*/
+.dust {
+position: absolute;
+width: 347px;
+height: 100px;
+left: 101px;
+top: 287px;
+
+border-radius: 30px;
+}
+
+/*карта inferno*/
+.inferno {
+position: absolute;
+width: 347px;
+height: 100px;
+left: 101px;
+top: 447px;
+
+border-radius: 30px;
+}
+
+
+/*карта mirage*/
+.mirage {
+position: absolute;
+width: 347px;
+height: 100px;
+left: 101px;
+top: 617px;
+
+border-radius: 30px;
+}
+
+
+/*карта nuke*/
+.nuke {
+position: absolute;
+width: 347px;
+height: 100px;
+left: 101px;
+top: 807px;
+
+border-radius: 30px;
+}
+
+
+/* de_dust2 */
+.dust-name {
+position: absolute;
+width: 146px;
+height: 48px;
+left: 582px;
+top: 313px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+/* de_inferno */
+.inferno-name {
+position: absolute;
+width: 172px;
+height: 48px;
+left: 582px;
+top: 471px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* de_mirage */
+.mirage-name {
+position: absolute;
+width: 171px;
+height: 48px;
+left: 582px;
+top: 643px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* de_nuke */
+.nuke-name {
+position: absolute;
+width: 138px;
+height: 48px;
+left: 582px;
+top: 833px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+/* 37.230.162.25:27041 */
+.dust-ip {
+position: absolute;
+width: 379px;
+height: 92px;
+left: 911px;
+top: 293px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* 37.230.162.25:27028 */
+.inferno-ip {
+position: absolute;
+width: 379px;
+height: 92px;
+left: 911px;
+top: 451px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+/* 46.174.50.172:27036 */
+.mirage-ip{
+position: absolute;
+width: 379px;
+height: 92px;
+left: 911px;
+top: 621px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+/* 46.174.48.196:27028 */
+.nuke-ip {
+position: absolute;
+width: 379px;
+height: 92px;
+left: 911px;
+top: 811px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF
+}
+
+
+/*флаг России*/
+.ru {
+position: absolute;
+width: 64px;
+height: 64px;
+left: 1315px;
+top: 305px;
+}
+
+.ru1 {
+position: absolute;
+width: 64px;
+height: 64px;
+left: 1315px;
+top: 465px;
+}
+
+.ru2 {
+position: absolute;
+width: 64px;
+height: 64px;
+left: 1315px;
+top: 635px;
+}
+
+.ru3 {
+position: absolute;
+width: 64px;
+height: 64px;
+left: 1315px;
+top: 825px;
+}
+
+
+/* [RU] */
+.ru-txt {
+position: absolute;
+width: 69px;
+height: 48px;
+left: 1386px;
+top: 313px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.ru1-txt {
+position: absolute;
+width: 69px;
+height: 48px;
+left: 1386px;
+top: 473px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.ru2-txt {
+position: absolute;
+width: 69px;
+height: 48px;
+left: 1386px;
+top: 643px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.ru3-txt {
+position: absolute;
+width: 69px;
+height: 48px;
+left: 1386px;
+top: 835px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/*2VS5*/
+.vs1 {
+position: absolute;
+width: 78px;
+height: 48px;
+left: 1632px;
+top: 313px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*1VS3*/
+.vs2 {
+position: absolute;
+width: 71px;
+height: 48px;
+left: 1632px;
+top: 473px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*2VS5*/
+.vs3 {
+position: absolute;
+width: 71px;
+height: 48px;
+left: 1632px;
+top: 643px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/*1VS3*/
+.vs4 {
+position: absolute;
+width: 71px;
+height: 48px;
+left: 1632px;
+top: 835px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 151.2%;
+/* or 48px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*задний фон*/
+.block1 {
+position: absolute;
+width: 1920px;
+height: 1103px;
+left: -17px;
+top: 0px;
+
+background: #121212;
+}
+
+/*блок в конце*/
+.block-end {
+position: absolute;
+width: 1920px;
+height: 308px;
+left: -17px;
+top: 1103px;
+
+background: #3C3C3C;
+}
+
+
+/*логотип в конце*/
+.logo-end {
+position: absolute;
+width: 292px;
+height: 129px;
+left: 343px;
+top: 1164px;
+}
+
+/* Официальный сайт специализированный на 
+киберспорте “CYBER-SS” */
+.txt-end {
+position: absolute;
+width: 528px;
+height: 57px;
+left: 417px;
+top: 1261px;
+}
+
+.vk-end {
+position: absolute;
+width: 58px;
+height: 58px;
+left: 1289px;
+top: 1207px;
+}
+
+.instagram-end {
+position: absolute;
+width: 58px;
+height: 58px;
+left: 1380px;
+top: 1207px;
+}
+
+.politic-end {
+position: absolute;
+width: 274px;
+height: 19px;
+left: 1284px;
+top: 1287px;
+}
