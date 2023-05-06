@@ -47,9 +47,37 @@ color: #FFFFFF;
 }
 
 
+.block-for-get-back {
+position: absolute;
+width: 269px;
+height: 50px;
+left: 1607px;
+top: 6294px;
+
+background: rgba(217, 217, 217, 0.3);
+opacity: 0.6;
+border-radius: 36px;
+}
 
 
+/* Главное меню */
+.get-back {
+position: absolute;
+width: 245px;
+height: 37px;
+left: 1650px;
+top: 6303px;
+text-decoration: none;
 
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118%;
+
+
+color: #FFFFFF;
+}
 
 
 
