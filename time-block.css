@@ -1,0 +1,229 @@
+.block1 {
+position: absolute;
+width: 1920px;
+height: 2190px;
+left: -17px;
+top: 0px;
+
+background: #121212;
+}
+
+
+/* Политика конфиденциальности */
+.politics-1 {
+position: absolute;
+width: 934px;
+height: 40px;
+left: 715px;
+top: 70px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 118%;
+/* or 57px */
+
+
+color: #00FFD1;
+}
+
+.politics-2 {
+position: absolute;
+width: 405px;
+height: 28px;
+left: 785px;
+top: 140px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118%;
+/* or 28px */
+
+
+color: #00FFD1;
+}
+
+
+.politics-3 {
+position: absolute;
+width: 405px;
+height: 28px;
+left: 800px;
+top: 645px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118%;
+/* or 28px */
+
+
+color: #00FFD1;
+}
+
+
+.politics-4 {
+position: absolute;
+width: 405px;
+height: 28px;
+left: 920px;
+top: 1215px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118%;
+/* or 28px */
+
+
+color: #00FFD1;
+}
+
+
+
+.txt {
+color: #FFFFFF;
+position: absolute;
+width: 745px;
+height: 380px;
+left: 610px;
+top: 200px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 118%;
+/* or 38px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.txt2 {
+position: absolute;
+width: 1143px;
+height: 418px;
+left: 430px;
+top: 740px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 118%;
+/* or 38px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.txt3 {
+position: absolute;
+width: 1333px;
+height: 570px;
+left: 370px;
+top: 1310px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 118%;
+/* or 38px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+.block-for-get-back {
+position: absolute;
+width: 269px;
+height: 50px;
+left: 1607px;
+top: 2090px;
+
+background: rgba(217, 217, 217, 0.3);
+opacity: 0.6;
+border-radius: 36px;
+}
+
+
+/* Главное меню */
+.get-back {
+position: absolute;
+width: 245px;
+height: 37px;
+left: 1650px;
+top: 2100px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118%;
+
+
+color: #FFFFFF;
+}
+
+
+/*конец*/
+.block-end {
+position: absolute;
+width: 1920px;
+height: 308px;
+left: -17px;
+top: 2190px;
+
+background: #3C3C3C;
+}
+
+.logo-end {
+position: absolute;
+left: 343px;
+top: 2251px;
+}
+
+.txt-end {
+position: absolute;
+left: 417px;
+top: 2348px;
+}
+
+.vk-end {
+position: absolute;
+left: 1289px;
+top: 2294px;
+}
+
+.instagram-end {
+position: absolute;
+left: 1380px;
+top: 2294px;
+}
+
+.politic-end {
+position: absolute;
+left: 1284px;
+top: 2374px;
+}

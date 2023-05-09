@@ -1,0 +1,122 @@
+.block1 {
+position: absolute;
+width: 1920px;
+height: 2190px;
+left: -17px;
+top: 0px;
+
+background: #121212;
+}
+
+
+/* Политика конфиденциальности */
+.politics-1 {
+position: absolute;
+width: 934px;
+height: 40px;
+left: 735px;
+top: 70px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 118%;
+/* or 57px */
+
+
+color: #00FFD1;
+}
+
+.txt {
+position: absolute;
+width: 1384px;
+height: 1006px;
+left: 336px;
+top: 200px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118%;
+/* or 28px */
+
+
+color: #FFFFFF;
+}
+
+
+.block-for-get-back {
+position: absolute;
+width: 269px;
+height: 50px;
+left: 1607px;
+top: 2090px;
+
+background: rgba(217, 217, 217, 0.3);
+opacity: 0.6;
+border-radius: 36px;
+}
+
+
+/* Главное меню */
+.get-back {
+position: absolute;
+width: 245px;
+height: 37px;
+left: 1650px;
+top: 2100px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118%;
+
+
+color: #FFFFFF;
+}
+
+
+/*конец*/
+.block-end {
+position: absolute;
+width: 1920px;
+height: 308px;
+left: -17px;
+top: 2190px;
+
+background: #3C3C3C;
+}
+
+.logo-end {
+position: absolute;
+left: 343px;
+top: 2251px;
+}
+
+.txt-end {
+position: absolute;
+left: 417px;
+top: 2348px;
+}
+
+.vk-end {
+position: absolute;
+left: 1289px;
+top: 2294px;
+}
+
+.instagram-end {
+position: absolute;
+left: 1380px;
+top: 2294px;
+}
+
+.politic-end {
+position: absolute;
+left: 1284px;
+top: 2374px;
+}
