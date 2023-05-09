@@ -1,3 +1,3 @@
 # CYBER-SS
-[https://marsels1.github.io/test-2/](https://marsels1.github.io/cyber-ss/)
+https://marsels1.github.io/cyber-ss/
 в процессе разработки...
